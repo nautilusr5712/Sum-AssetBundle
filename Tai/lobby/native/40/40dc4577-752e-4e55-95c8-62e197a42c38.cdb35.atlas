@@ -1,0 +1,69 @@
+
+tlmn4icon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4 người
+  rotate: true
+  xy: 423, 103
+  size: 135, 37
+  orig: 135, 37
+  offset: 0, 0
+  index: -1
+Card 1
+  rotate: false
+  xy: 2, 101
+  size: 148, 137
+  orig: 148, 137
+  offset: 0, 0
+  index: -1
+Card 2
+  rotate: true
+  xy: 152, 99
+  size: 139, 146
+  orig: 139, 146
+  offset: 0, 0
+  index: -1
+Card 3
+  rotate: false
+  xy: 300, 99
+  size: 121, 139
+  orig: 121, 139
+  offset: 0, 0
+  index: -1
+Card 4
+  rotate: true
+  xy: 2, 2
+  size: 97, 126
+  orig: 97, 126
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 130, 49
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+M
+  rotate: true
+  xy: 462, 186
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+N
+  rotate: true
+  xy: 462, 138
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+T
+  rotate: true
+  xy: 462, 96
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1

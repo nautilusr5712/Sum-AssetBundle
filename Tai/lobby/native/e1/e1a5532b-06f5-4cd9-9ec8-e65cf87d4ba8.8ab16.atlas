@@ -1,0 +1,90 @@
+
+mayaiconlobby.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 859, 314
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+A2
+  rotate: true
+  xy: 606, 221
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+Flare_001
+  rotate: false
+  xy: 2, 203
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+Gold
+  rotate: false
+  xy: 606, 377
+  size: 243, 133
+  orig: 243, 133
+  offset: 0, 0
+  index: -1
+Gold 1
+  rotate: false
+  xy: 2, 2
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+Gold 2
+  rotate: false
+  xy: 981, 491
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 606, 276
+  size: 99, 157
+  orig: 99, 157
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: true
+  xy: 2, 30
+  size: 171, 288
+  orig: 171, 288
+  offset: 0, 0
+  index: -1
+M
+  rotate: true
+  xy: 765, 270
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+Ring
+  rotate: false
+  xy: 311, 235
+  size: 293, 275
+  orig: 293, 275
+  offset: 0, 0
+  index: -1
+Y
+  rotate: false
+  xy: 921, 315
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+glow_ball2_green
+  rotate: false
+  xy: 851, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

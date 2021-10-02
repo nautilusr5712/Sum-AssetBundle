@@ -1,0 +1,20 @@
+
+Sukien-Icon-Mini.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 39
+  size: 92, 72
+  orig: 94, 74
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 51, 35
+  orig: 53, 37
+  offset: 1, 1
+  index: -1

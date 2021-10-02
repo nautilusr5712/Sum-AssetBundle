@@ -1,0 +1,48 @@
+
+Icon-ThienDia.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jo1
+  rotate: false
+  xy: 386, 72
+  size: 166, 178
+  orig: 166, 178
+  offset: 0, 0
+  index: -1
+khung1
+  rotate: false
+  xy: 2, 63
+  size: 193, 187
+  orig: 193, 187
+  offset: 0, 0
+  index: -1
+lighgggg
+  rotate: false
+  xy: 718, 172
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+lighttd
+  rotate: false
+  xy: 197, 70
+  size: 187, 180
+  orig: 187, 180
+  offset: 0, 0
+  index: -1
+phuong2
+  rotate: false
+  xy: 554, 76
+  size: 162, 174
+  orig: 162, 174
+  offset: 0, 0
+  index: -1
+thiendiatexxt
+  rotate: false
+  xy: 2, 2
+  size: 179, 59
+  orig: 179, 59
+  offset: 0, 0
+  index: -1

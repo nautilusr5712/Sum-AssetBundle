@@ -1,0 +1,83 @@
+
+iconTLMN.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 339, 16
+  size: 90, 141
+  orig: 90, 141
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 172, 2
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 262, 108
+  size: 122, 144
+  orig: 122, 144
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 116, 104
+  size: 144, 148
+  orig: 144, 148
+  offset: 0, 0
+  index: -1
+Chip
+  rotate: true
+  xy: 2, 66
+  size: 186, 112
+  orig: 186, 112
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: true
+  xy: 386, 119
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+L
+  rotate: true
+  xy: 116, 67
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+M
+  rotate: true
+  xy: 2, 5
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 59, 10
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+Solo
+  rotate: true
+  xy: 304, 15
+  size: 91, 33
+  orig: 91, 33
+  offset: 0, 0
+  index: -1
+T
+  rotate: false
+  xy: 112, 10
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1

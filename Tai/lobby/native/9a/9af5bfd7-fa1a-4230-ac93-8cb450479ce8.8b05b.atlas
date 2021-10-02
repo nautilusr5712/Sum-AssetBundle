@@ -1,0 +1,20 @@
+
+lobby_sieuxe.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 267
+  rotate: false
+  xy: 2, 19
+  size: 137, 156
+  orig: 137, 156
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 141, 2
+  size: 173, 46
+  orig: 173, 46
+  offset: 0, 0
+  index: -1

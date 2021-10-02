@@ -1,0 +1,27 @@
+
+Icon-LocThu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+locthu1
+  rotate: false
+  xy: 2, 2
+  size: 172, 59
+  orig: 172, 59
+  offset: 0, 0
+  index: -1
+locthu2
+  rotate: false
+  xy: 197, 71
+  size: 186, 179
+  orig: 186, 179
+  offset: 0, 0
+  index: -1
+locthu3
+  rotate: false
+  xy: 2, 63
+  size: 193, 187
+  orig: 193, 187
+  offset: 0, 0
+  index: -1

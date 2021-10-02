@@ -1,0 +1,104 @@
+
+maubinhicon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 314, 113
+  size: 156, 123
+  orig: 156, 123
+  offset: 0, 0
+  index: -1
+AA
+  rotate: false
+  xy: 81, 34
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 695, 205
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+H
+  rotate: false
+  xy: 111, 49
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 158, 84
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 158, 97
+  size: 154, 139
+  orig: 154, 139
+  offset: 0, 0
+  index: -1
+M
+  rotate: false
+  xy: 617, 153
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 668, 205
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Q
+  rotate: true
+  xy: 472, 102
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+Sparkle 1
+  rotate: false
+  xy: 617, 186
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Sparkle 3
+  rotate: false
+  xy: 617, 186
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Sparkle 2
+  rotate: false
+  xy: 2, 2
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 617, 120
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+ray04
+  rotate: false
+  xy: 2, 82
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1

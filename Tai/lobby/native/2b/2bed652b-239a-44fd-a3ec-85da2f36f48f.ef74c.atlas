@@ -1,0 +1,48 @@
+
+Icon-TaiXiu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ta1
+  rotate: false
+  xy: 72, 2
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+tai1
+  rotate: false
+  xy: 385, 126
+  size: 105, 109
+  orig: 105, 109
+  offset: 0, 0
+  index: -1
+tai2
+  rotate: false
+  xy: 385, 44
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+tii2
+  rotate: false
+  xy: 2, 48
+  size: 193, 187
+  orig: 193, 187
+  offset: 0, 0
+  index: -1
+ty3
+  rotate: false
+  xy: 197, 56
+  size: 186, 179
+  orig: 186, 179
+  offset: 0, 0
+  index: -1
+xiu2
+  rotate: false
+  xy: 2, 2
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
